@@ -1,0 +1,1 @@
+El archivo main.cpp de esta carpeta funciona para las dos versiones solicitadas en la clase del 09/09/2022
